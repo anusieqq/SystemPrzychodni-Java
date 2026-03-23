@@ -1,0 +1,4 @@
+user1|RX-001|Amoksycylina 500mg - 1x dziennie przez 7 dni|15.02.2024|dr Anna Kowalska
+user1|RX-002|Ibuprofen 400mg - w razie bólu|20.02.2024|dr Jan Nowak
+user2|RX-003|Maść hydrokortyzonowa - 2x dziennie|05.02.2024|dr Maria Wiśniewska
+user2|RX-004|Żelazo 50mg - 1x dziennie|10.03.2024|dr Anna Kowalska

@@ -1,0 +1,4 @@
+1|dr Anna Kowalska|Internista|poniedziałek, środa, piątek 9:00-15:00|anna.kowalska@klinika.pl|123-456-789
+2|dr Jan Nowak|Kardiolog|wtorek, czwartek 10:00-16:00|jan.nowak@klinika.pl|123-456-790
+3|dr Maria Wiśniewska|Dermatolog|poniedziałek, czwartek 9:00-14:00|maria.wisniewska@klinika.pl|123-456-791
+4|dr Piotr Lewandowski|Okulista|środa, piątek 11:00-17:00|piotr.lewandowski@klinika.pl|123-456-792

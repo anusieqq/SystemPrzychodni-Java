@@ -1,0 +1,3 @@
+user1|SKI-001|Badanie EKG|30.06.2024|dr Jan Nowak
+user1|SKI-002|USG jamy brzusznej|15.05.2024|dr Anna Kowalska
+user2|SKI-003|Konsultacja alergologiczna|30.05.2024|dr Maria Wiśniewska

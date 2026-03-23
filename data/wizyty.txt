@@ -1,0 +1,6 @@
+user1|history|1|dr Anna Kowalska|Internista|15.02.2024 10:00|Zakończona|Przeziębienie, zalecenie odpoczynku|VISIT|NFZ
+user1|history|2|dr Jan Nowak|Kardiolog|20.02.2024 11:30|Zakończona|Kontrola ciśnienia, wszystko OK|VISIT|NFZ
+user1|registered|101|dr Piotr Lewandowski|Okulista|10.04.2024 09:00|Zarejestrowana||VISIT|NFZ
+user1|registered|102|dr Anna Kowalska|Internista|15.04.2024 11:00|Zarejestrowana||VISIT|NFZ
+user2|history|3|dr Maria Wiśniewska|Dermatolog|05.02.2024 14:00|Zakończona|Wysypka alergiczna, przepisano maść|VISIT|NFZ
+user2|registered|103|dr Jan Nowak|Kardiolog|12.04.2024 13:30|Zarejestrowana||VISIT|NFZ

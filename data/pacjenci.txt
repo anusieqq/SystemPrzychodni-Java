@@ -1,0 +1,2 @@
+user1|pass1|Jan Kowalski|12345678901|ul. Kwiatowa 15, Warszawa
+user2|pass2|Anna Nowak|98765432109|ul. Lipowa 7, Kraków

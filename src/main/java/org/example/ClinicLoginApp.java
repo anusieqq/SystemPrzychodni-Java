@@ -1925,13 +1925,15 @@ class AvailableAppointment {
 }
 
 class DataManager {
-    private static final String PATIENTS_FILE = "pacjenci.txt";
-    private static final String DOCTORS_FILE = "lekarze.txt";
-    private static final String VISITS_FILE = "wizyty.txt";
-    private static final String PRESCRIPTIONS_FILE = "recepty.txt";
-    private static final String REFERRALS_FILE = "skierowania.txt";
-    private static final String SICK_LEAVES_FILE = "zwolnienia.txt";
-    private static final String TEST_RESULTS_FILE = "wyniki_badan.txt";
+    private static final String DATA_FOLDER = "data/"; // nowy katalog
+
+    private static final String PATIENTS_FILE = DATA_FOLDER + "pacjenci.txt";
+    private static final String DOCTORS_FILE = DATA_FOLDER + "lekarze.txt";
+    private static final String VISITS_FILE = DATA_FOLDER + "wizyty.txt";
+    private static final String PRESCRIPTIONS_FILE = DATA_FOLDER + "recepty.txt";
+    private static final String REFERRALS_FILE = DATA_FOLDER + "skierowania.txt";
+    private static final String SICK_LEAVES_FILE = DATA_FOLDER + "zwolnienia.txt";
+    private static final String TEST_RESULTS_FILE = DATA_FOLDER + "wyniki_badan.txt";
 
     private Map<String, Patient> patients = new HashMap<>();
     private List<Doctor> doctors = new ArrayList<>();

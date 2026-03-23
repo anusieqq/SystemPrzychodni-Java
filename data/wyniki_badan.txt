@@ -1,0 +1,5 @@
+user1|Morfologia krwi|15.03.2024|Wyniki w normie|dr Anna Kowalska
+user1|EKG|20.03.2024|Czynność serca prawidłowa|dr Jan Nowak
+user1|Poziom glukozy|25.03.2024|95 mg/dL - prawidłowy|dr Anna Kowalska
+user2|Morfologia krwi|10.03.2024|Lekka anemia, zalecana suplementacja żelaza|dr Anna Kowalska
+user2|Ciśnienie krwi|12.03.2024|130/85 - w normie|dr Jan Nowak

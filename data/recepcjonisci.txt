@@ -1,0 +1,2 @@
+recepcja2|pass123|Piotr Kowalski (Recepcjonista)|R002
+recepcja1|pass123|Anna Nowak (Recepcjonistka)|R001
